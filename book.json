@@ -1,3 +1,4 @@
 {
-  "root": "./pages"
+  "root": "./pages",
+  "structure.readme" : "README.md"
 }
